@@ -20,9 +20,9 @@ Learn everything you need to about the subject of this `LinkedIn` project.
 [x] Introduction to the demo application 5m 21s
 
 2. IDE and Development Environment Intro
-[ ] Introduction to the IDE 4m 21s
-[ ] Introduction to the server 1m 45s
-[ ] Basic architecture 5m 24s
+[x] Introduction to the IDE 4m 21s
+[x] Introduction to the server 1m 45s
+[x] Basic architecture 5m 24s
 
 3. JavaServer Faces (JSF)
 [ ] JSF introduction 6m 4s
