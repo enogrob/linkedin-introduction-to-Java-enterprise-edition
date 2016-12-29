@@ -25,10 +25,10 @@ Learn everything you need to about the subject of this `LinkedIn` project.
 [x] Basic architecture 5m 24s
 
 3. JavaServer Faces (JSF)
-[ ] JSF introduction 6m 4s
-[ ] JSF in practice, part 1 4m 42s
-[ ] JSF in practice, part 2 1m 48s
-[ ] Challenge 1m 13s
+[x] JSF introduction 6m 4s
+[x] JSF in practice, part 1 4m 42s
+[x] JSF in practice, part 2 1m 48s
+[x] Challenge 1m 13s
 [ ] Solution 1m 51s
 
 4. Context and Dependency Injection (CDI)

@@ -32,7 +32,7 @@ import org.primefaces.model.map.Marker;
  * <p/>
  * In some very simplistic cases, it may be fine to not use even an adapter.
  */
-@Named
+@Named("tracker")
 @ViewScoped
 public class Track implements Serializable {
 
