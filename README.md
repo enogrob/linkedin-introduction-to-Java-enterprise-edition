@@ -29,13 +29,13 @@ Learn everything you need to about the subject of this `LinkedIn` project.
 [x] JSF in practice, part 1 4m 42s
 [x] JSF in practice, part 2 1m 48s
 [x] Challenge 1m 13s
-[ ] Solution 1m 51s
+[x] Solution 1m 51s
 
 4. Context and Dependency Injection (CDI)
-[ ] CDI introduction 5m 31s
-[ ] CDI in practice 4m 43s
-[ ] Challenge 40s
-[ ] Solution 3m 16s
+[x] CDI introduction 5m 31s
+[x] CDI in practice 4m 43s
+[x] Challenge 40s
+[x] Solution 3m 16s
 
 5. JavaServer Pages (JSP) and Expression Language (EL)
 [ ] JSP EL introduction 4m 15s
