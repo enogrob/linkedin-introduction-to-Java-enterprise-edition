@@ -38,8 +38,8 @@ Learn everything you need to about the subject of this `LinkedIn` project.
 [x] Solution 3m 16s
 
 5. JavaServer Pages (JSP) and Expression Language (EL)
-[ ] JSP EL introduction 4m 15s
-[ ] JSP EL in practice 2m 15s
+[x] JSP EL introduction 4m 15s
+[x] JSP EL in practice 2m 15s
 
 6. Enterprise Java Beans (EJB) 3
 [ ] EJB introduction 6m 9s
