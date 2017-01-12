@@ -42,8 +42,8 @@ Learn everything you need to about the subject of this `LinkedIn` project.
 [x] JSP EL in practice 2m 15s
 
 6. Enterprise Java Beans (EJB) 3
-[ ] EJB introduction 6m 9s
-[ ] EJB in practice 5m 0s
+[x] EJB introduction 6m 9s
+[x] EJB in practice 5m 0s
 
 7. Java Messaging Service (JMS)
 [ ] JMS introduction 4m 3s
