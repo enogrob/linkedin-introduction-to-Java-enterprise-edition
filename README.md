@@ -46,8 +46,8 @@ Learn everything you need to about the subject of this `LinkedIn` project.
 [x] EJB in practice 5m 0s
 
 7. Java Messaging Service (JMS)
-[ ] JMS introduction 4m 3s
-[ ] JMS front end 2m 16s
+[x] JMS introduction 4m 3s
+[x] JMS front end 2m 16s
 [ ] JMS in practice: Senders and receivers 2m 46s
 [ ] JMS in practice: Fire observe 1m 20s
 [ ] Challenge 36s
